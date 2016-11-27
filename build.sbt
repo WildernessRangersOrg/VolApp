@@ -1,4 +1,4 @@
-name := "WildernessRangersVol"
+name := "vol-wilderness-rangers"
 
 version := "1.0"
 
