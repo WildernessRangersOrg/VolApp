@@ -1,0 +1,6 @@
+{
+  "name": "Wilderness Rangers Volunteer App",
+  "description": "Volunteer management application fro Wilderness Rangers",
+  "image": "heroku/scala",
+  "addons": [ "heroku-postgresql" ]
+}
